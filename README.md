@@ -10,6 +10,14 @@ This project simulates a real-world ML system — from dataset preparation and m
 ## 🚀 Current Modules
 
 - [x] **Modality Classifier** – Detect whether input is a CT or MRI scan
+
+    - Architecture: MobileNetV2 (frozen), + Dense head
+    - Input: 224x224x3 brain images
+    - Output: CT (0) or MRI (1)
+    - Train accuracy: 99.66%
+    - Val accuracy: 99.69%
+    - Test accuracy: **99.79%**
+
 - [ ] Tumor Classification (MRI)
 - [ ] Tumor Segmentation (MRI)
 - [ ] Hemorrhage Detection (CT)
