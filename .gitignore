@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environments
+env/
+venv/
+.idea/
+.vscode/
+
+# Data
+*.csv
+*.zip
+*.h5
+*.npy
+*.npz
+data/
+*.tfrecords
+
+# Checkpoints and logs
+logs/
+checkpoints/
+*.ckpt
+*.pb
+*.pth
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
