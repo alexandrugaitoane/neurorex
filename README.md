@@ -18,7 +18,16 @@ This project simulates a real-world ML system — from dataset preparation and m
     - Val accuracy: 99.69%
     - Test accuracy: **99.79%**
 
-- [ ] Tumor Classification (MRI)
+- [x] **MRI Tumor Classifier**
+
+    - Architecture: MobileNetV2 (fine-tuned last 30 layers)
+    - Input: 224x224 MRI images
+    - Classes: glioma, meningioma, pituitary, no tumor
+    - Accuracy:
+        - Train: 98.6%
+        - Validation: 98.3%
+        - Test: 96.4%
+        
 - [ ] Tumor Segmentation (MRI)
 - [ ] Hemorrhage Detection (CT)
 - [ ] Stroke Segmentation (CT and FLAIR)
