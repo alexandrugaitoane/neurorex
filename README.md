@@ -28,7 +28,15 @@ This project simulates a real-world ML system — from dataset preparation and m
         - Validation: 98.3%
         - Test: 96.4%
         
-- [ ] Tumor Segmentation (MRI)
+- - [x] **MRI Tumor Segmentation** – Identify tumor regions from brain MRI scans
+
+    - Architecture: Custom U-Net (encoder-decoder)
+    - Input: 224x224x3 brain images
+    - Output: Tumor mask (binary segmentation)
+    - Train Dice: 93.44%
+    - Validation Dice: 82.90%
+    - Test Dice: **83.25%**
+    
 - [ ] Hemorrhage Detection (CT)
 - [ ] Stroke Segmentation (CT and FLAIR)
 - [ ] CT → MRI Translation (GAN-style)
