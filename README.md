@@ -28,7 +28,7 @@ This project simulates a real-world ML system — from dataset preparation and m
         - Validation: 98.3%
         - Test: 96.4%
         
-- - [x] **MRI Tumor Segmentation** – Identify tumor regions from brain MRI scans
+- [x] **MRI Tumor Segmentation** – Identify tumor regions from brain MRI scans
 
     - Architecture: Custom U-Net (encoder-decoder)
     - Input: 224x224x3 brain images
