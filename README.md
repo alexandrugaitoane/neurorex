@@ -33,9 +33,9 @@ This project simulates a real-world ML system — from dataset preparation and m
     - Architecture: Custom U-Net (encoder-decoder)
     - Input: 224x224x3 brain images
     - Output: Tumor mask (binary segmentation)
-    - Train Dice: 93.44%
-    - Validation Dice: 82.90%
-    - Test Dice: **83.25%**
+    - Train Dice: 86.44%
+    - Validation Dice: 79.35%
+    - Test Dice: **80.74%**
     
 - [ ] Hemorrhage Detection (CT)
 - [ ] Stroke Segmentation (CT and FLAIR)
