@@ -1,0 +1,188 @@
+{
+    "train": [
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_11",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_5",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_22",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_18",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_6",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_7",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_15",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_11",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_17",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_27",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_20",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_10",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_14",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_3",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_7",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_13",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_10",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_14",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_17",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_4",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_21",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_8",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_1",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_23",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_4",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_16",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_2",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_18",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_9",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_12",
+            "label": 1
+        }
+    ],
+    "val": [
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_6",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_25",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_2",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_3",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_19",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_13",
+            "label": 0
+        }
+    ],
+    "test": [
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_1",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_8",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_26",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_24",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_16",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_15",
+            "label": 1
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_5",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Normal/patient_12",
+            "label": 0
+        },
+        {
+            "patient_dir": "/Users/alex/Desktop/NeuroRex/data/ct_hemorrhage_classifier/Hemorrhagic/patient_9",
+            "label": 1
+        }
+    ]
+}
