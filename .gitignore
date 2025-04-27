@@ -28,3 +28,11 @@ checkpoints/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Ignore saved models
+models/**/*.keras
+models/**/*.h5
+models/**/*.weights.h5
+
+# Ignore virtual environment
+neurorex-env/
